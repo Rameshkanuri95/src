@@ -1,0 +1,66 @@
+.businesscard--block{
+    width: 317px;
+    border: 2px solid black;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #1A1B21;
+}
+
+/* Info Section */
+
+.Info-photo{
+    width: 317px;
+    height: 317px;
+    object-fit: cover;
+}
+.Info-candiatename{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin: 0;
+}
+.Info-designation{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12.8px;
+    font-weight: 400;
+    color: #F3BF99;
+    margin: 0;
+}
+.Info-websitename{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10.24px;
+    font-weight: 400;
+    color: #F5F5F5;
+}
+.Info-socialbuttons{
+}
+
+.Info-button{
+    padding: 9px 13px 9px 11px;
+    border: 1px #D1D5DB;
+    border-radius: 1px;
+    margin: 5px 4px;
+}
+
+
+.Info-email{
+   background-color: #FFFFFF;
+   
+}
+.Info-linkdin{
+    background-color: #5093E2;
+}
+
+/* About */
+.text-align{
+    text-align: justify;
+}
+.footer-section{
+    background-color: black;
+    margin: 0;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 25px;
+}
